@@ -1,6 +1,6 @@
 define(function() {
 	
-	var SITE_URL = encodeURIComponent("https://gridland.doublespeakgames.com");
+	var SITE_URL = encodeURIComponent("");
 	var links = [
 		{
 			className: 'twitter',
